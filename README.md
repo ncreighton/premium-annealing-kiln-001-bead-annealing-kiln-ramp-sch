@@ -1,0 +1,2 @@
+# premium-annealing-kiln-001-bead-annealing-kiln-ramp-sch
+Tired of guessing kiln temperatures and ramp rates while your beads crack or anneal unevenly? The Bead Annealing &amp; Kiln Ramp Schedule Hub eliminates the guesswork with a centralized Notion workspace that tracks every firing cycle, ramp schedule, and annealing parameter in one place.  Stop losing notes on scraps of paper and reinventing ramp schedul
